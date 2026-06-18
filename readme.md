@@ -1,4 +1,5 @@
-## Hey Yooo, Welcome to my GIT guide!
+## Welcome to GIT!
 
 - Yo ZombiE Here!
-- I'm adding this from feature-branch
+- This is coming from 'dev-zombie'
+- I'm adding this from 'feature-branch'
